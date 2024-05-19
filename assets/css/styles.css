@@ -80,3 +80,17 @@ body {
 .footer p {
   color: #ffffff;
 }
+
+.table {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: left;
+}
+
+.table caption {
+  font-size: 22px;
+  padding: 1rem;
+}
+
+
